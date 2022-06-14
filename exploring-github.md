@@ -4,3 +4,12 @@
 
 ### Slightly smaller header 
 
+Vocabulary list
+- git
+- Github
+- local
+- remote
+- diff
+- repo
+- GUI
+- reconcile
